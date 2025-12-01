@@ -1,0 +1,1 @@
+g++ -std=c++14 risk.cpp game.cpp -lglut -lGLU -lGL -lm -o risk
