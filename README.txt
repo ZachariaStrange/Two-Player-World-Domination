@@ -1,1 +1,1 @@
-g++ -std=c++14 risk.cpp game.cpp -lglut -lGLU -lGL -lm -o risk
+g++ -std=c++14 risk.cpp game.cpp stb_image.c -lglut -lGLU -lGL -lm -o risk
